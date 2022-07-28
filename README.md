@@ -1,5 +1,4 @@
-# assbproductiontooling
-// Will be used in Jira
+# ASSB Meeting Capture
+by Power Apps, for Airfoil Services Sdn Bhd
 
-
-Maybe
+Platform: Microsoft Teams; Web
